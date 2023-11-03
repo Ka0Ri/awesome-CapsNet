@@ -1,0 +1,33 @@
+@article{patrick2022capsule,
+  title={Capsule networks--a survey},
+  author={Patrick, Mensah Kwabena and Adekoya, Adebayo Felix and Mighty, Ayidzoe Abra and Edward, Baagyire Y},
+  journal={Journal of King Saud University-computer and information sciences},
+  volume={34},
+  number={1},
+  pages={1295--1310},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{pawan2022capsule,
+  title={Capsule networks for image classification: A review},
+  author={Pawan, SJ and Rajan, Jeny},
+  journal={Neurocomputing},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@article{sabour2017dynamic,
+  title={Dynamic routing between capsules},
+  author={Sabour, Sara and Frosst, Nicholas and Hinton, Geoffrey E},
+  journal={Advances in neural information processing systems},
+  volume={30},
+  year={2017}
+}
+
+@inproceedings{hinton2018matrix,
+  title={Matrix capsules with EM routing},
+  author={Hinton, Geoffrey E and Sabour, Sara and Frosst, Nicholas},
+  booktitle={International conference on learning representations},
+  year={2018}
+}
