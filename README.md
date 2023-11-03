@@ -13,7 +13,7 @@ A curated list of awesome Capsule Network works
   - [Implementations](#implementations)
     - [Tensorflow](#tensorflow)
     - [PyTorch](#pytorch)
-- [Other Awesome](#other-awesome)
+- [Awesome](#awesome)
 - [License](#license)
 
 ## Survey
@@ -54,19 +54,14 @@ A curated list of awesome Capsule Network works
 </details>
 
 <details open>
-<summary>Slides</summary>
-</details>
-
-<details open>
 <summary>Lectures</summary>
 
 - [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900), Aurélien Géron, Youtube 2017.
 - [How to implement CapsNets using TensorFlow](https://www.youtube.com/watch?v=2Kawrd5szHE), Aurélien Géron, Youtube 2017.
 - [Capsule network explained](https://www.youtube.com/watch?v=v0tgo3c_7Xs), Count From Zero, Youtube 2021
-- [Geoffrey Hinton Capsule theory](https://www.youtube.com/watch?v=6S1_WqE55UQ), 2017
-- [Geoffrey Hinton – Capsule Networks](https://www.youtube.com/watch?v=x5Vxk9twXlE), 2018
-- [Introduction to Capsules by Sara Sabour, Google](https://www.youtube.com/watch?v=zRg3IuxaJ6I), UCF-CRCV, 2018.
-- [Capsule networks - A survey by Dr. Yogesh Rawat, UCF](https://www.youtube.com/watch?v=OwzsIoNr-zo), UCF-CRCV, 2019.
+- [Geoffrey Hinton Capsule theory](https://www.youtube.com/watch?v=6S1_WqE55UQ), 2017.
+- [Geoffrey Hinton – Capsule Networks](https://www.youtube.com/watch?v=x5Vxk9twXlE), 2018.
+- [Capsule Networks for Computer Vision](https://www.crcv.ucf.edu/cvpr2019-tutorial/), CVPR 2019.
 </details>
 
 ## Brief comparision
@@ -93,7 +88,7 @@ A curated list of awesome Capsule Network works
 - [Ka0Ri/Capsule-Network](https://github.com/Ka0Ri/Capsule-Network)
 - [shzygmyx/Matrix-Capsules-pytorch](https://github.com/shzygmyx/Matrix-Capsules-pytorch)
 
-# Other Awesome
+# Awesome
 [Capsule Network](https://github.com/sekwiatkowski/awesome-capsule-networks)
 
 [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision/tree/master)
