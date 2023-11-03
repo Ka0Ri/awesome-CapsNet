@@ -26,7 +26,7 @@ A curated list of awesome Capsule Network works
 <summary>Papers by Hinton et al.</summary>
 
 - [Matrix capsules with EM routing](https://openreview.net/pdf?id=HJWLfGWRb), Hiton et al., ICLR 2018 | [bibtex](assets\citations.txt#L20)
-- [Dynamic routing between capsules](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), Sabour et al, NIPS 2017 | [bibtex](assets\citations.txt#L28)
+- [Dynamic routing between capsules](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), Sabour et al., NIPS 2017 | [bibtex](assets\citations.txt#L28)
 - [Dynamic routing between capsules](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), Sabour et al, NIPS 2017 | [bibtex](assets\citations.txt#L28)
 - [Dynamic routing between capsules](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), Sabour et al, NIPS 2017 | [bibtex](assets\citations.txt#L28)
 - [Dynamic routing between capsules](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), Sabour et al, NIPS 2017 | [bibtex](assets\citations.txt#L28)
@@ -34,9 +34,11 @@ A curated list of awesome Capsule Network works
 </details>
 
 ## Tutorials
+
 <details open>
 <summary>Blogs</summary>
 
+- [Capsule neural network](https://en.wikipedia.org/wiki/Capsule_neural_network), Wikipedia. 
 - [Understanding Hinton’s Capsule Networks series](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b), Max Pechyonkin, Medium 2017.
 - [Uncovering the Intuition behind Capsule Networks and Inverse Graphic](https://hackernoon.com/uncovering-the-intuition-behind-capsule-networks-and-inverse-graphics-part-i-7412d121798d),  Tanay Kothari, Hackernoon 2017.
 - [A Visual Representation of Capsule Connections in Dynamic Routing Between Capsules](https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737), Mike Ross, Medium 2017.
@@ -46,6 +48,8 @@ A curated list of awesome Capsule Network works
 - [Capsule Networks Explained](https://kndrck.co/posts/capsule_networks_explained/), Kendrick Tan.
 - [Understanding Dynamic Routing between Capsules (Capsule Networks)](https://jhui.github.io/2017/11/03/Dynamic-Routing-Between-Capsules/), Jonathan Hui, Blog 2017.
 - [Matrix capsules with EM routing](https://blog.acolyer.org/2017/11/14/matrix-capsules-with-em-routing/), Adrian Colyer, Blog 2017.
+- [Capsule Networks: A Quick Primer](https://blog.paperspace.com/capsule-networks/), Vihar Kurama, Paperspace 2020.
+- [Capsule Networks: The New Deep Learning Network](https://towardsdatascience.com/capsule-networks-the-new-deep-learning-network-bd917e6818e8), Aryan Misra, Towardsdatascience 2019.
 
 </details>
 
@@ -54,7 +58,15 @@ A curated list of awesome Capsule Network works
 </details>
 
 <details open>
-<summary>Talks</summary>
+<summary>Lectures</summary>
+
+- [Capsule Networks (CapsNets) – Tutorial](https://www.youtube.com/watch?v=pPN8d0E3900), Aurélien Géron, Youtube 2017.
+- [How to implement CapsNets using TensorFlow](https://www.youtube.com/watch?v=2Kawrd5szHE), Aurélien Géron, Youtube 2017.
+- [Capsule network explained](https://www.youtube.com/watch?v=v0tgo3c_7Xs), Count From Zero, Youtube 2021
+- [Geoffrey Hinton Capsule theory](https://www.youtube.com/watch?v=6S1_WqE55UQ), 2017
+- [Geoffrey Hinton – Capsule Networks](https://www.youtube.com/watch?v=x5Vxk9twXlE), 2018
+- [Introduction to Capsules by Sara Sabour, Google](https://www.youtube.com/watch?v=zRg3IuxaJ6I), UCF-CRCV, 2018.
+- [Capsule networks - A survey by Dr. Yogesh Rawat, UCF](https://www.youtube.com/watch?v=OwzsIoNr-zo), UCF-CRCV, 2019.
 </details>
 
 ## Brief comparision
