@@ -36,6 +36,12 @@ A curated list of awesome Capsule Network works
 - [Darccc: Detecting adversaries by reconstruction from class conditional capsules](https://arxiv.org/abs/1811.06969), Nicholas Frosst et al., | [bibtex](assets\citations.txt#L76)
 </details>
 
+<details open>
+<summary>Routing</summary>
+
+
+
+</details>
 
 ## Tutorials
 
@@ -99,11 +105,9 @@ A curated list of awesome Capsule Network works
 | [GraCapsNets]() | Mnist: 99.50 <br /> FMnist: 93.1 <br /> CIFAR10: 82.21| Multi-head attention-based Graph Pooling approach incorporates built-in explanation |
 | [STAR-Caps]() | MNIST: 99.49 <br /> SmallNORB: 95.72 <br /> CIFAR10: 91.23 <br /> CIFAR100: 67.66| straight-through attentive routing, differentiable binary routers |
 | [Group-Caps]() | Mnist: 98.42 <br /> AffNist: 89.1| group equivariant capsule network |
-| [Em routing]() | smallNORB: 98.2 <br /> Mnist: 99.54 <br /> CIFAR10: 88.1| EM-based routing mixture coefficients |
-| [Dynamic routing]() | Mnist: 99.75 <br /> MultiMNIST: 94.8 <br /> CIFAR10: 89.4 <br /> smallNORB: 97.3 <br /> SVHN: 95.7| Cosine based routing coefficient |
+| [Em routing](https://openreview.net/pdf?id=HJWLfGWRb) | smallNORB: 98.2 <br /> Mnist: 99.54 <br /> CIFAR10: 88.1| EM-based routing mixture coefficients |
+| [Dynamic routing](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html) | Mnist: 99.75 <br /> MultiMNIST: 94.8 <br /> CIFAR10: 89.4 <br /> smallNORB: 97.3 <br /> SVHN: 95.7| Cosine based routing coefficient |
 | [shortcut routing]() | Mnist: 99.57 <br /> affNist: 89.02 <br /> smallNorb: 94.77 <br /> FNist: 92.18 <br /> | shortcut connection and fuzzy routing|
-
-
 
 
 ## Implementations
