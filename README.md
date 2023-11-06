@@ -39,9 +39,22 @@ A curated list of awesome Capsule Network works
 <details open>
 <summary>Routing</summary>
 
-
-
+- [Matrix capsules with EM routing](https://openreview.net/pdf?id=HJWLfGWRb), Hiton et al., ICLR 2018 | [bibtex](assets\citations.txt#L20)
+- [Dynamic routing between capsules](https://proceedings.neurips.cc/paper_files/paper/2017/hash/2cad8fa47bbef282badbb8de5374b894-Abstract.html), Sabour et al., NIPS 2017 | [bibtex](assets\citations.txt#L28)
+- [Capsule network with shortcut routing](https://search.ieice.org/bin/pdf_link.php?category=A&fname=e104-a_8_1043&lang=E&year=2021), Vu et al., IEICE 2021 | [bibtex](assets\citations.txt#L99)
+- [Path capsule networks](https://link.springer.com/article/10.1007/s11063-020-10273-0), Mohammed Amer et al., Neural Processing Letters 2020 |  [bibtex](assets\citations.txt#L110)
+- [Fast dynamic routing based on weighted kernel density estimation](https://link.springer.com/chapter/10.1007/978-3-030-04946-1_30), Zhang et al., International symposium on artificial intelligence and robotics 2018 | [bibtex](assets\citations.txt#L121)
+- [Self-routing capsule networks](https://proceedings.neurips.cc/paper/2019/hash/e46bc064f8e92ac2c404b9871b2a4ef2-Abstract.html), Hahn et al., NIPS 2019 | [bibtex](assets\citations.txt#L130)
+- [Capsules with Inverted Dot-Product Attention Routing](https://arxiv.org/abs/2002.04764), Tsai et al., ICLR 2019 | [bibtex](assets\citations.txt#L145)
+- [Hitnet: a neural network with capsules embedded in a hit-or-miss layer, extended with hybrid data augmentation and ghost capsules](https://arxiv.org/abs/1806.06519), Adrien et al., 2018 | [bibtex](assets\citations.txt#L138)
+- [Capsule Networks with Max-Min Normalization](), Zhao et al., 2019 | [bibtex](assets\citations.txt#L152)
+- [Generalized capsule networks with trainable routing procedure](https://arxiv.org/abs/1808.08692), Chen et al., 2018 | [bibtex](assets\citations.txt#L159)
+- [Neural network encapsulation](https://openaccess.thecvf.com/content_ECCV_2018/html/Hongyang_Li_Neural_Network_Encapsulation_ECCV_2018_paper.html), Li et al., ECCV 2018 | [bibtex](assets\citations.txt#L166)
+- [Capsule routing via variational bayes](https://ojs.aaai.org/index.php/AAAI/article/view/5785), Ribeiro et al., AAAI 2020 | [bibtex](assets\citations.txt#L174)
+- [CapProNet: Deep Feature Learning via Orthogonal Projections onto Capsule Subspaces](https://proceedings.neurips.cc/paper/2018/hash/f5b1b89d98b7286673128a5fb112cb9a-Abstract.html), Zhang et al., NIPS 2018 | [bibtex](assets\citations.txt#L184)
+- [Group Equivariant Capsule Networks](https://proceedings.neurips.cc/paper_files/paper/2018/hash/c7d0e7e2922845f3e1185d246d01365d-Abstract.html), Lenssen et al., NIPS 2018 | [bibtex](assets\citations.txt#L192)
 </details>
+
 
 ## Tutorials
 
@@ -72,6 +85,8 @@ A curated list of awesome Capsule Network works
 - [Geoffrey Hinton Capsule theory](https://www.youtube.com/watch?v=6S1_WqE55UQ), 2017.
 - [Geoffrey Hinton – Capsule Networks](https://www.youtube.com/watch?v=x5Vxk9twXlE), 2018.
 - [Capsule Networks for Computer Vision](https://www.crcv.ucf.edu/cvpr2019-tutorial/), CVPR 2019.
+- [Does the Brain do Inverse Graphics?](https://www.youtube.com/watch?v=TFIMqt0yT2I), Hinton, Brain and Cognitive Sciences Fall Colloquium 2012.
+
 </details>
 
 ## Brief comparision

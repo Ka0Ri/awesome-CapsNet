@@ -95,3 +95,104 @@
   journal={arXiv preprint arXiv:1811.06969},
   year={1811}
 }
+
+@article{dang2021capsule,
+  title={Capsule network with shortcut routing},
+  author={Dang, Thanh Vu and Vo, Hoang Trong and Yu, Gwang Hyun and Kim, Jin Young},
+  journal={IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences},
+  volume={104},
+  number={8},
+  pages={1043--1050},
+  year={2021},
+  publisher={The Institute of Electronics, Information and Communication Engineers}
+}
+
+@article{amer2020path,
+  title={Path capsule networks},
+  author={Amer, Mohammed and Maul, Tom{\'a}s},
+  journal={Neural Processing Letters},
+  volume={52},
+  number={1},
+  pages={545--559},
+  year={2020},
+  publisher={Springer}
+}
+
+@inproceedings{zhang2018fast,
+  title={Fast dynamic routing based on weighted kernel density estimation},
+  author={Zhang, Suofei and Zhou, Quan and Wu, Xiaofu},
+  booktitle={International symposium on artificial intelligence and robotics},
+  pages={301--309},
+  year={2018},
+  organization={Springer}
+}
+
+@article{hahn2019self,
+  title={Self-routing capsule networks},
+  author={Hahn, Taeyoung and Pyeon, Myeongjang and Kim, Gunhee},
+  journal={Advances in neural information processing systems},
+  volume={32},
+  year={2019}
+}
+
+@article{deliege2018hitnet,
+  title={Hitnet: a neural network with capsules embedded in a hit-or-miss layer, extended with hybrid data augmentation and ghost capsules},
+  author={Deliege, Adrien and Cioppa, Anthony and Van Droogenbroeck, Marc},
+  journal={arXiv preprint arXiv:1806.06519},
+  year={2018}
+}
+
+@article{tsai2020capsules,
+  title={Capsules with inverted dot-product attention routing},
+  author={Tsai, Yao-Hung Hubert and Srivastava, Nitish and Goh, Hanlin and Salakhutdinov, Ruslan},
+  journal={arXiv preprint arXiv:2002.04764},
+  year={2020}
+}
+
+@article{zhao2019capsule,
+  title={Capsule networks with max-min normalization},
+  author={Zhao, Zhen and Kleinhans, Ashley and Sandhu, Gursharan and Patel, Ishan and Unnikrishnan, KP},
+  journal={arXiv preprint arXiv:1903.09662},
+  year={2019}
+}
+
+@article{chen2018generalized,
+  title={Generalized capsule networks with trainable routing procedure},
+  author={Chen, Zhenhua and Crandall, David},
+  journal={arXiv preprint arXiv:1808.08692},
+  year={2018}
+}
+
+@inproceedings{li2018neural,
+  title={Neural network encapsulation},
+  author={Li, Hongyang and Guo, Xiaoyang and Ouyang, Bo DaiWanli and Wang, Xiaogang},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={252--267},
+  year={2018}
+}
+
+@inproceedings{ribeiro2020capsule,
+  title={Capsule routing via variational bayes},
+  author={Ribeiro, Fabio De Sousa and Leontidis, Georgios and Kollias, Stefanos},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={04},
+  pages={3749--3756},
+  year={2020}
+}
+
+@article{zhang2018cappronet,
+  title={Cappronet: Deep feature learning via orthogonal projections onto capsule subspaces},
+  author={Zhang, Liheng and Edraki, Marzieh and Qi, Guo-Jun},
+  journal={Advances in neural information processing systems},
+  volume={31},
+  year={2018}
+}
+
+@article{lenssen2018group,
+  title={Group equivariant capsule networks},
+  author={Lenssen, Jan Eric and Fey, Matthias and Libuschewski, Pascal},
+  journal={Advances in neural information processing systems},
+  volume={31},
+  year={2018}
+}
