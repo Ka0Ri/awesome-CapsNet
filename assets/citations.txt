@@ -309,3 +309,10 @@
   volume={28},
   year={2015}
 }
+
+@article{ribeiro2022learning,
+  title={Learning with capsules: A survey},
+  author={Ribeiro, Fabio De Sousa and Duarte, Kevin and Everett, Miles and Leontidis, Georgios and Shah, Mubarak},
+  journal={arXiv preprint arXiv:2206.02664},
+  year={2022}
+}
