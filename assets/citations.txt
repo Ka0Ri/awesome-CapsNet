@@ -196,3 +196,116 @@
   volume={31},
   year={2018}
 }
+
+@article{ahmed2019star,
+  title={Star-caps: Capsule networks with straight-through attentive routing},
+  author={Ahmed, Karim and Torresani, Lorenzo},
+  journal={Advances in neural information processing systems},
+  volume={32},
+  year={2019}
+}
+
+@article{mazzia2021efficient,
+  title={Efficient-capsnet: Capsule network with self-attention routing},
+  author={Mazzia, Vittorio and Salvetti, Francesco and Chiaberge, Marcello},
+  journal={Scientific reports},
+  volume={11},
+  number={1},
+  pages={14634},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{wang2018optimization,
+  title={An optimization view on dynamic routing between capsules},
+  author={Wang, Dilin and Liu, Qiang},
+  year={2018}
+}
+
+@inproceedings{gu2021interpretable,
+  title={Interpretable graph capsule networks for object recognition},
+  author={Gu, Jindong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={2},
+  pages={1469--1477},
+  year={2021}
+}
+
+@article{rawlinson2018sparse,
+  title={Sparse unsupervised capsules generalize better},
+  author={Rawlinson, David and Ahmed, Abdelrahman and Kowadlo, Gideon},
+  journal={arXiv preprint arXiv:1804.06094},
+  year={2018}
+}
+
+@inproceedings{shahroudnejad2018improved,
+  title={Improved explainability of capsule networks: Relevance path by agreement},
+  author={Shahroudnejad, Atefeh and Afshar, Parnian and Plataniotis, Konstantinos N and Mohammadi, Arash},
+  booktitle={2018 ieee global conference on signal and information processing (globalsip)},
+  pages={549--553},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{de2020introducing,
+  title={Introducing routing uncertainty in capsule networks},
+  author={De Sousa Ribeiro, Fabio and Leontidis, Georgios and Kollias, Stefanos},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={6490--6502},
+  year={2020}
+}
+
+@inproceedings{pan2021pt,
+  title={PT-CapsNet: A novel prediction-tuning capsule network suitable for deeper architectures},
+  author={Pan, Chenbin and Velipasalar, Senem},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={11996--12005},
+  year={2021}
+}
+
+@article{xiang2018ms,
+  title={MS-CapsNet: A novel multi-scale capsule network},
+  author={Xiang, Canqun and Zhang, Lu and Tang, Yi and Zou, Wenbin and Xu, Chen},
+  journal={IEEE Signal Processing Letters},
+  volume={25},
+  number={12},
+  pages={1850--1854},
+  year={2018},
+  publisher={IEEE}
+}
+
+@inproceedings{rajasegaran2019deepcaps,
+  title={Deepcaps: Going deeper with capsule networks},
+  author={Rajasegaran, Jathushan and Jayasundara, Vinoj and Jayasekara, Sandaru and Jayasekara, Hirunima and Seneviratne, Suranga and Rodrigo, Ranga},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={10725--10733},
+  year={2019}
+}
+
+@article{mandal2021two,
+  title={Two-phase dynamic routing for micro and macro-level equivariance in multi-column capsule networks},
+  author={Mandal, Bodhisatwa and Sarkhel, Ritesh and Ghosh, Swarnendu and Das, Nibaran and Nasipuri, Mita},
+  journal={Pattern Recognition},
+  volume={109},
+  pages={107595},
+  year={2021},
+  publisher={Elsevier}
+}
+
+@inproceedings{guo2021conditional,
+  title={Conditional variational capsule network for open set recognition},
+  author={Guo, Yunrui and Camporese, Guglielmo and Yang, Wenjing and Sperduti, Alessandro and Ballan, Lamberto},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={103--111},
+  year={2021}
+}
+
+@article{kulkarni2015deep,
+  title={Deep convolutional inverse graphics network},
+  author={Kulkarni, Tejas D and Whitney, William F and Kohli, Pushmeet and Tenenbaum, Josh},
+  journal={Advances in neural information processing systems},
+  volume={28},
+  year={2015}
+}
