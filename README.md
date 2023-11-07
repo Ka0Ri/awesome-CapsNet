@@ -18,6 +18,7 @@ A curated list of awesome Capsule Network works
 
 ## Survey & News
 
+- [Learning with Capsules: A Comprehensive Survey](https://arxiv.org/pdf/2206.02664.pdf), Ribeiro et al. 2022 | [bibtex](assets\citations.txt#L313)
 - [Capsule Networks – A survey](https://www.sciencedirect.com/science/article/pii/S1319157819309322), Menash et al., JKSU 2022 | [bibtex](assets\citations.txt#L5)
 - [Capsule networks for image classification: A review](https://www.sciencedirect.com/science/article/pii/S0925231222010657), Pawan et al., Neurocomputing 2022 | [bibtex](assets\citations.txt#L12)
 - [What happened with Capsule Neural Networks?](https://analyticsindiamag.com/what-happened-with-capsule-neural-networks/), Endless Origins 2022.
