@@ -51,6 +51,8 @@ A curated list of awesome Capsule Network works
 - [MS-CapsNet: A Novel Multi-Scale Capsule Network](https://ieeexplore.ieee.org/abstract/document/8481393), Xiang et al., IEEE 2018 | [bibtex](assets/citations.txt#L268)
 - [DeepCaps: Going Deeper with Capsule Networks](https://openaccess.thecvf.com/content_CVPR_2019/html/Rajasegaran_DeepCaps_Going_Deeper_With_Capsule_Networks_CVPR_2019_paper.html), Rajasegaran et al., CVPR 2019 | [bibtex](assets/citations.txt#L279)
 - [Two-phase Dynamic Routing for Micro and Macro-level Equivariance in Multi-Column Capsule Networks](https://www.sciencedirect.com/science/article/pii/S0031320320303988), Bodhisatwa et al., Pattern Recognition  2021 | [bibtex](assets/citations.txt#L287)
+- [Dense and diverse capsule networks: Making the capsules learn better](https://arxiv.org/abs/1805.04001), Phaye et al., Preprint 2018 | [bibtex](assets/citations.txt#L320)
+
 </details>
 
 <details open>
@@ -73,10 +75,22 @@ A curated list of awesome Capsule Network works
 - [Group Equivariant Capsule Networks](https://proceedings.neurips.cc/paper_files/paper/2018/hash/c7d0e7e2922845f3e1185d246d01365d-Abstract.html), Lenssen et al., NIPS 2018 | [bibtex](assets/citations.txt#L192)
 - [Star-caps: Capsule networks with straight-through attentive routing](https://proceedings.neurips.cc/paper_files/paper/2019/hash/cf040fc71060367913e81ac1eb050aea-Abstract.html), Ahmed et al., NIPS 2019
 - [Efficient-CapsNet: capsule network with self-attention routing](https://www.nature.com/articles/s41598-021-93977-0), Vittorio et al.,  Scientific Reports 2021 | [bibtex](assets/citations.txt#L208)
+- [MS-CapsNet: A Novel Multi-Scale Capsule Network](https://ieeexplore.ieee.org/abstract/document/8481393), Xiang et al., IEEE 2018 | [bibtex](assets/citations.txt#L208)
+
 
 </details>
 
 <details open>
+
+<summary>Cross-domain</summary>
+
+- [A capsule network-based embedding model for knowledge graph completion and search personalization](https://aclanthology.org/N19-1226/), Dai et al., NAACL 2019 | [bibtex](assets/citations.txt#L235)
+
+</details>
+
+
+<details open>
+
 <summary>Notable</summary>
 
 - [An Optimization View on Dynamic Routing Between Capsules ](https://openreview.net/forum?id=HJjtFYJDf), Wang et al., ICLR 2018 Workshop | [bibtex](assets/citations.txt#L219)
@@ -86,6 +100,8 @@ A curated list of awesome Capsule Network works
 - [Introducing routing uncertainty in capsule networks](https://proceedings.neurips.cc/paper/2020/hash/47fd3c87f42f55d4b233417d49c34783-Abstract.html), Ribeiro et al., NIPS 2020 | [bibtex](assets/citations.txt#L251)
 - [Conditional variational capsule network for open set recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_Conditional_Variational_Capsule_Network_for_Open_Set_Recognition_ICCV_2021_paper.html), ICCV 2021 | [bibtex](assets/citations.txt#L297)
 - [Deep convolutional inverse graphics network](https://proceedings.neurips.cc/paper/2015/hash/ced556cd9f9c0c8315cfbe0744a3baf0-Abstract.html), Kulkarni et al., NIPS 2015 | [bibtex](assets/citations.txt#L305)
+- [Spectral Capsule Networks](https://openreview.net/pdf?id=HJuMvYPaM), Bahadori et al., ICLR workshop 2018 | [bibtex](assets/citations.txt#L320)
+  
 </details>
 
 ## Tutorials

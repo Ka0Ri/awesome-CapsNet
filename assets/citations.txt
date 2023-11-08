@@ -316,3 +316,16 @@
   journal={arXiv preprint arXiv:2206.02664},
   year={2022}
 }
+
+@article{phaye2018dense,
+  title={Dense and diverse capsule networks: Making the capsules learn better},
+  author={Phaye, Sai Samarth R and Sikka, Apoorva and Dhall, Abhinav and Bathula, Deepti},
+  journal={arXiv preprint arXiv:1805.04001},
+  year={2018}
+}
+
+@article{bahadori2018spectral,
+  title={Spectral capsule networks},
+  author={Bahadori, Mohammad Taha},
+  year={2018}
+}
