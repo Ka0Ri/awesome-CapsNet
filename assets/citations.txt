@@ -329,3 +329,12 @@
   author={Bahadori, Mohammad Taha},
   year={2018}
 }
+
+@InProceedings{Yu_2022_CVPR,
+    author    = {Yu, Chang and Zhu, Xiangyu and Zhang, Xiaomei and Wang, Zidu and Zhang, Zhaoxiang and Lei, Zhen},
+    title     = {HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {4032-4041}
+}

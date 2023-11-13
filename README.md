@@ -85,6 +85,7 @@ A curated list of awesome Capsule Network works
 <summary>Cross-domain</summary>
 
 - [A capsule network-based embedding model for knowledge graph completion and search personalization](https://aclanthology.org/N19-1226/), Dai et al., NAACL 2019 | [bibtex](assets/citations.txt#L235)
+- [HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_HP-Capsule_Unsupervised_Face_Part_Discovery_by_Hierarchical_Parsing_Capsule_Network_CVPR_2022_paper.html), Chang et al., CVPR 2022 | [bibtex](assets/citations.txt#L333)
 
 </details>
 
